@@ -1,0 +1,32 @@
+
+/* Custom Fonts */
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+/* Heading fonts */
+h1,
+h2 {
+    font-family: 'Montserrat', sans-serif;
+}
+
+/* Table customization */
+table thead {
+    font-weight: bold;
+    letter-spacing: 0.5px;
+}
+
+.btn-info {
+    background-color: #ff6600;
+    /* orange buttons */
+    border: none;
+}
+
+.btn-info:hover {
+    background-color: #e65c00;
+}
+
+/* Footer */
+footer {
+    font-size: 0.9rem;
+}
